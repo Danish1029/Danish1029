@@ -1,6 +1,6 @@
 Hi 👋 I'm Danish Akhtar Ansari
 
-About Me
+
 Senior Automation Test Engineer with 4.9+ years of experience in
 
 ✔ Selenium Automation
