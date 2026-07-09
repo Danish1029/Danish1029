@@ -1,16 +1,52 @@
-## Hi there 👋
+Hi 👋 I'm Danish Akhtar Ansari
 
-<!--
-**Danish1029/Danish1029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+Senior Automation Test Engineer with 4.9+ years of experience in
 
-Here are some ideas to get you started:
+✔ Selenium Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✔ REST Assured API Automation
+
+✔ Mobile Automation
+
+✔ SQL Database Validation
+
+✔ Jenkins CI/CD
+
+✔ Docker Selenium Grid
+
+✔ Enterprise Framework Development
+
+
+Technology Badges
+Java
+
+Selenium
+
+REST Assured
+
+Appium
+
+SQL
+
+MySQL
+
+TestNG
+
+Maven
+
+Jenkins
+
+Docker
+
+Git
+
+GitHub
+
+Postman
+
+Allure
+
+Extent Reports
+
+Log4j2
